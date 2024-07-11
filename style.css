@@ -1,0 +1,109 @@
+/*sign-up css*/
+body{
+  background-color: #8E2FB8;
+  margin: 0px;
+  padding-top: 0px;
+}
+.nav {
+  background-color: #000000;
+  padding: 15px;
+  overflow: hidden;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+  text-decoration: none;
+  padding: 20px;
+   color: whitesmoke;
+}
+
+.sign-up {
+   text-align: center;
+   text-decoration: underline;
+   padding: 20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.container {
+   margin: 25px;
+   height: 550px;
+   background-color: #FFFFFF;
+   border-radius: 6px;
+   text-align: center;
+   overflow: hidden;
+   font-family: 'Segoe UI', 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.greetings {
+   opacity: 50%;
+}
+
+.sign-up-btn {
+   width: 207px;
+   height: 30px;
+   margin: 20px;
+   color:  #FFFFFF;
+   background-color: #8E2FB8;
+   border-radius: 5px;
+   border-color: #605563;
+   border-style: solid;
+  
+}
+
+
+.email {
+   width: 200px;
+   margin: 5px;
+}
+
+.password {
+   width: 200px;
+   margin: 5px;
+}
+
+.sgn-up {
+   color: #2968FF;
+   padding: 2px;
+}
+
+/*login css*/
+
+.login {
+   text-align: center;
+   text-decoration: underline;
+   padding: 20px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+.name {
+   width: 200px;
+   margin: 5px;
+}
+
+.login-btn {
+   width: 207px;
+   height: 30px;
+   margin: 20px;
+   color: #FFFFFF;
+   background-color: #8E2FB8;
+   border-radius: 5px;
+   border-color: #605563;
+   border-style: solid;
+  
+}
+
+
+.lgn{
+   color: #2968FF;
+   padding: 2px;
+}
+
+.footer {
+   opacity: 50%;
+   margin-top: 163px;
+}
+
+.footer-s-up {
+   opacity: 50%;
+   margin-top: 130px;
+}
